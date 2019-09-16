@@ -12,7 +12,7 @@ body {background-image: url(galaxybg.jpg); text-align: center}
 <body>
   <h1>Welcome To My Media World</h1>
 <h2>Main Page</h2>
-  <img src="ww.jpg" alt="beware" <br>
+<img src="ww.jpg" alt="beware" <br>
     <p>Lorena Galeano</p>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br>
