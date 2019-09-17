@@ -4,7 +4,7 @@
   p {font-size: 30px; color:white}
  h1 {font-size: 64px; color:hotpink}
  h2 {font-size: 50px; color:white}
-body {background-image: url(galaxybg.jpg); text-align: center}
+body {background-image: url(fall.jpg); text-align: center}
 
 </style>
 </head>
