@@ -2,7 +2,7 @@
 <title>My First Site</title>
 <style media="screen">
   p {font-size: 30px; color:white}
- h1 {font-size: 64px; color:black}
+ h1 {font-size: 64px; color:pink}
  h2 {font-size: 50px; color:white}
 body {background-image: url(blur.jpg); text-align: center}
 
